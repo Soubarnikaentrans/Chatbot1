@@ -1,2 +1,7 @@
 ﻿Flask
 Gunicorn
+nltk
+scikit-learn
+numpy
+fitz
+pymupdf
